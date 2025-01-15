@@ -1,7 +1,7 @@
 ![Build Image](https://github.com/interactionresearchstudio/NaturewatchCameraServer/workflows/Build%20Image/badge.svg)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/interactionresearchstudio/NaturewatchCameraServer)
 ![GitHub all releases](https://img.shields.io/github/downloads/interactionresearchstudio/NaturewatchCameraServer/total)
-# NaturewatchCameraServer
+# CameraServer
 
 This is the main software for my wildlife camera. It is a Python server 
 script that captures a video stream from a Pi Camera and serves it as a .mjpg 
